@@ -6,10 +6,10 @@
 
 ### ❓ About Me
 
-* 💼 Currently studying and developing projects in my free time
-* 🚀 Exploring AI, automation, and system-level development
-* 🧠 Interested in multi-language development and cross-platform tooling
-* 🌐 I love combining back-end logic with clean UIs
+💼 I work primarily in Cybersecurity  
+🚀 I have explored AI a bit and enjoy learning about it  
+🧠 I like creating projects using multiple programming languages  
+🌐 Passionate about building practical tools and solutions
 
 ---
 
