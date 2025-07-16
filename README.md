@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm xar2143
 
-🎓 **Student** · 💻 **Developer** · 🔬 Passionate about building intelligent systems and tools
+🎓 **Student** · 💻 **Developer** · 🔬 Passionate about Cybersecurity
 
 ---
 
