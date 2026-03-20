@@ -32,4 +32,6 @@
 ![xar2143's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xar2143\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xar2143\&layout=compact\&theme=tokyonight)
 
+---
+
 Thanks for stopping by 👨‍💻
