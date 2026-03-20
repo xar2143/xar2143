@@ -1,19 +1,6 @@
-## 👋 Hello there, I'm xar2143
+## Hello there, I'm xar2143
 
-🎓 **Student** · 💻 **Developer** · 🔬 Passionate about Cybersecurity
-
----
-
-### ❓ About Me
-
-💼 I work primarily in Cybersecurity  
-🚀 I have explored AI a bit and enjoy learning about it  
-🧠 I like creating projects using multiple programming languages  
-🌐 Passionate about building practical tools and solutions
-
----
-
-### 💻 Technology Stack
+### My Technology Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,16 +27,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### My GitHub Stats
 
 ![xar2143's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xar2143\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xar2143\&layout=compact\&theme=tokyonight)
-
----
-
-### 📫 Let's Connect
-
-* 💬 Discord: `xar2143`
-* 📂 Check out my pinned repositories!
 
 Thanks for stopping by 👨‍💻
